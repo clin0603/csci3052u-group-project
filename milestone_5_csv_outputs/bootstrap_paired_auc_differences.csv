@@ -1,0 +1,3 @@
+comparison,observed_auc_difference,difference_ci_lower,difference_ci_upper
+Bagged trees minus kNN (k=101),0.0010521528309466177,-0.0029222987069816297,0.004744372371541294
+Bagged trees minus Logistic Regression (C=0.1),0.0012735641167918033,-0.0035984399516319544,0.006333002201483476

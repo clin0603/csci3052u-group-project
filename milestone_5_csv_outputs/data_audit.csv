@@ -1,0 +1,4 @@
+split,rows_before_filtering,rows_after_filtering,approved,denied
+2007_train,40000,26486,16946,9540
+2008_validation,40000,27604,17725,9879
+2009_test,40000,24470,18179,6291

@@ -1,0 +1,7 @@
+loan_purpose,applications,actual_denials,denials_caught,model,denial_recall
+1,12647,2329,0,kNN (k=101),0.0
+2,700,434,170,kNN (k=101),0.391705069124424
+3,11123,3528,567,kNN (k=101),0.16071428571428573
+1,12647,2329,0,Logistic Regression (C=0.1),0.0
+2,700,434,0,Logistic Regression (C=0.1),0.0
+3,11123,3528,11,Logistic Regression (C=0.1),0.0031179138321995466
