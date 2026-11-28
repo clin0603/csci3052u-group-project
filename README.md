@@ -1,6 +1,4 @@
-# Predicting Mortgage Application Outcomes
-
-**Remedial Finance · CSCI3052U Machine Learning · Ontario Tech University**
+# CSCI3052U - Predicting Mortgage Application Outcomes
 
 Can four basic application features predict recorded mortgage approvals and denials across years? We compare four classifiers and a majority baseline using historical Nevada Home Mortgage Disclosure Act (HMDA) data. We train on 2007 applications, select model settings on 2008 applications, and evaluate the selected models on 2009 applications.
 
